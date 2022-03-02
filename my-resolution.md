@@ -1,3 +1,4 @@
+
 # Materi
 ## Anindyo
 ### Framework Front End
@@ -8,3 +9,22 @@ Ingin tahu cara kerja API, serta cara membuat dan menggunakannya.
 ## Anindyo
 ### Fullstack Developer
 Ingin menjadi fullstack developer karena memang sudah tertarik dengan proses development dari suatu web atau app, baik dari segi front end, maupun back end nya.
+
+# Materi
+
+## Febrian Andy
+
+### Microservice
+
+react
+
+### Micro Frontend
+
+vue
+
+# Career Plan
+
+## Febrian andy
+
+### Fullstack Developer
+
